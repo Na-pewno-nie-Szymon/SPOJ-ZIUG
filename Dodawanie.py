@@ -13,7 +13,7 @@ def aMozeTo(liczba):
             liczba += l 
 
     return iloscJeden
-
+ 
 def main():
     liczby = []
     t = int(input())	# ilosc testow <= 10000
